@@ -3,9 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	test5()
+	test1()
 }
 
-func test5() {
+func test1() {
+	fmt.Println("xxx")
 	fmt.Println("xxx")
 }
