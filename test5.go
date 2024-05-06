@@ -1,9 +1,9 @@
 package main
 
 func main() {
-	test10()
+	test6()
 }
 
-func test10() {
+func test6() {
 
 }

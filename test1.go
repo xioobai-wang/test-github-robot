@@ -1,14 +1,10 @@
 package main
 
-import "fmt"
 
 func main() {
-	test1()
+	test()
 }
 
-func test1() {
-	fmt.Println("yyy")
-	fmt.Println("yyy")
-	fmt.Println("yyy")
-	fmt.Println("yyy")
+func test() {
+
 }
