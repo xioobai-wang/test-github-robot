@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78611b44-0814-4b9d-9cfd-ea9f17063ba1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test6.go" beforeDir="false" afterPath="$PROJECT_DIR$/test6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test3.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/test3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.go" beforeDir="false" afterPath="$PROJECT_DIR$/test1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test12.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test8.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +62,14 @@
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;test6&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test12&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/test-github-robot/test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;go.sdk&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -65,6 +77,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\test-github-robot\test" />
+    </key>
+  </component>
   <component name="RunManager" selected="Go Build.go build test7.go">
     <configuration name="go build test5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="test-github-robot" />
@@ -121,7 +138,8 @@
     <MESSAGE value="feat(test1): conflict" />
     <MESSAGE value="feat(test2): conflict" />
     <MESSAGE value="feat(test6): test6" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(test6): test6" />
+    <MESSAGE value="feat(test12): test12" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(test12): test12" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
