@@ -19,6 +19,9 @@ func test10() {
 
 func f1(stop chan bool) {
 	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
 	for {
 
 	}
