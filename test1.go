@@ -22,6 +22,12 @@ func f1(stop chan bool) {
 	fmt.Println("start f1")
 	fmt.Println("start f1")
 	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
+	fmt.Println("start f1")
 	for {
 
 	}
